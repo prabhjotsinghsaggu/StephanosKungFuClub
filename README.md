@@ -1,4 +1,7 @@
 Stephanos Kungfu Club
+
+
+
 SKF is a martial arts school with hundreds of students.  SKF has these requirements:
 •	There is only one instructor who teaches all classes
 •	Students are given a student number when they join the school.  This is stored along with their name, date of birth, the date they joined the school, their mobile number, email, and address.  
